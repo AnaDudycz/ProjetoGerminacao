@@ -4,11 +4,13 @@ project:
 
 website:
   title: "Projeto Germinação"
+ 
+  
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+   left:
+      - text: Introdução ao R
+        href: arquivo1.qmd
+
 
 format:
   html:
