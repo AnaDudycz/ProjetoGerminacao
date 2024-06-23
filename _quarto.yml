@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: docs
+  
+execute: 
+  cache: true
+  freeze: auto
 
 website:
   title: "Projeto Germinação"
@@ -10,7 +14,9 @@ website:
    left:
    - text: Pré-visualização
      href: arquivo1.qmd
-
+   - text: Análise Estatística
+     href: arquivo2.qmd
+     
 
 format:
   html:
