@@ -20,9 +20,14 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    fontsize: 1.1em
+    theme: 
+      light: sandstone
+      dark: darkly
     toc: true
+    code-copy: true
+    code-overflow: wrap
+    warning: false
 
 editor: visual
 
