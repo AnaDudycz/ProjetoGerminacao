@@ -5,11 +5,11 @@ project:
 website:
   title: "Projeto Germinação"
  
-  
   navbar:
+   pinned: true
    left:
-      - text: Introdução ao R
-        href: arquivo1.qmd
+   - text: Pré-visualização
+     href: arquivo1.qmd
 
 
 format:
