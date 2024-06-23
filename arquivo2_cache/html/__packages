@@ -1,0 +1,15 @@
+dplyr
+ggplot2
+remotes
+tidyverse
+tibble
+tidyr
+readr
+purrr
+stringr
+forcats
+lubridate
+ggthemes
+readxl
+performance
+DHARMa
