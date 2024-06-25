@@ -102,7 +102,6 @@ grafico2 <- ggplot(data = dados2,aes(x = trat, y = Ngerm))+
   
 grafico2
 
-r <- sqrt(R2q)
 
 ```
 
@@ -181,7 +180,6 @@ grafico3 <- ggplot(data = dados3,aes(x = trat, y = Nmort))+
   
 grafico3
 
-r <- sqrt(R2q)
 ```
 
 ## Visualização IVG
@@ -258,7 +256,6 @@ grafico4 <- ggplot(data = dados4,aes(x = trat, y = IVG))+
   
 grafico4
 
-r <- sqrt(R2q)
 ```
 
 ## Visualização MS
@@ -336,5 +333,4 @@ grafico5 <- ggplot(data = dados5,aes(x = trat, y = MS))+
   
 grafico5
 
-r <- sqrt(R2q)
 ```
